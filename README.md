@@ -1,7 +1,7 @@
 # UAS - Pengolahan Citra
 
-Fadillah Adeliani Putri
-NIM  : 312210055
+## Fadillah Adeliani Putri
+## NIM  : 312210055
 
 ### Penjelasan Algoritme K-means Clustering untuk Segmentasi Gambar
 
