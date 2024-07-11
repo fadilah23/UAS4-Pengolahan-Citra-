@@ -3,12 +3,12 @@
 ## Fadillah Adeliani Putri
 ## NIM  : 312210055
 
-### Penjelasan Algoritme K-means Clustering untuk Segmentasi Gambar
+### Penjelasan Algoritma K-means Clustering untuk Segmentasi Gambar
 
 #### 1. Memuat Gambar
 
 ```
-image = cv2.imread('images/helmet.jpg')
+image = cv2.imread('images/kaleng.jpg')
 if image is None:
     raise FileNotFoundError("File gambar tidak ditemukan. Periksa kembali jalur file.")
 ```
